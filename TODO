@@ -1,0 +1,11 @@
+
+Features to add:
+add configuration file support
+add getIP function
+
+
+Bugs:
+	VulnHelp will not print any of the commands
+	Server logs do not always work
+	Level 2 does not work at all
+        Cannot exploit Levels 1 or 3
